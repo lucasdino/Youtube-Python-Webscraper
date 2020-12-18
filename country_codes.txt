@@ -1,0 +1,7 @@
+US
+GB
+DE
+CA
+FR
+BR
+MX
